@@ -38,6 +38,7 @@ footer {
   padding: 1rem;
   color: #666;
   border-top: 1px solid #ddd;
+  margin: 0 auto;
 }
 
 .project-card {
